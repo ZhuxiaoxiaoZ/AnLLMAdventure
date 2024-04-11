@@ -9,10 +9,16 @@ Here, four unique NPCs, each with their own personalities and stories. Each NPC 
  
 Each conversation, each clue uncovered through dialogue with NPCs, contributes to their overall score, reflecting the depth of their investigation and understanding. In creating this game, the goal was to redefine the narrative adventure genre, offering players not just a story to follow, but a mystery to live. 
 
+## DEMO
+The demo video can be found here: https://youtu.be/XAwHta90gNc
+
 ## Features
 -dynamic storytelling
 -NPC interactions powered by LLM
 -mystery-solving mechanics.
+
+## Package require
+If you're interested in trying out this game, please send a request email to zyyx1818@gmail.com. I will provide you with the package and further instructions on how to get started.
 
 ## Environment
 -Unity version: 2023.2.17f1
@@ -25,9 +31,6 @@ Each conversation, each clue uncovered through dialogue with NPCs, contributes t
 1. Import package 'LLM Game.unitypackage', newtonsoft-json package in Unity version 2023.2.17f1.
 2. Run python code 'main.py'.
 3. Try play the game and solve puzzle. ENJOY!
-
-## DEMO
-The demo video can be found here: https://youtu.be/XAwHta90gNc
 
 ## Reference:
 -OpenAI API documentation
