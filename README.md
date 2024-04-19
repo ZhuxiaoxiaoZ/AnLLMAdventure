@@ -28,9 +28,10 @@ If you're interested in trying out this game, please send a request email to zyy
 -Resolution: 1920 x 1080
 
 ## Instructions:
-1. Import package 'LLM Game.unitypackage', newtonsoft-json package in Unity version 2023.2.17f1.
-2. Run python code 'main.py'.
-3. Try play the game and solve puzzle. ENJOY!
+1. Import package 'LLM Game.unitypackage' in Unity version 2023.2.17f1.
+2. Add newtonsoft-json package in Unity. (On Unity go to Windows->Package Manager, once the Package Manager window opens, go to Add package from git URL, type com. unity. nuget. newtonsoft-json press Add and done).
+3. Run python code 'main.py' in vscode.
+4. Clip "play" in Unity. Then play the game and solve puzzle. ENJOY!
 
 ## Reference:
 -OpenAI API documentation
